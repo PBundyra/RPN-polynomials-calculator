@@ -1,0 +1,25 @@
+/**
+@mainpage Dokumentacja zadania wielomiany
+
+### Treść zadania
+
+Uwaga: aktualna treść zadania znajduje się w [Moodle](https://moodle.mimuw.edu.pl).
+
+### Opis programu
+
+Tegoroczne duże zadanie polega na zaimplementowaniu operacji na wielomianach
+rzadkich wielu zmiennych.
+
+W pliku poly.c znajdziemy implementacje wszystkich operacji związanych z wielomianami, należą do nich m.in. dodawanie, odejmowania, mnożenie oraz
+porównywanie wielomianów. Każdy wielomian zwracany przez funkcje jest posorotwany rosnąco względem wykładników potęgowego przy zmiennej x_0.
+
+Dodatkowo w programie znajdziemy prosty kalkulator zaimplementowany na stosie (w postaci tablicy),
+który może przechowywać wielomiany i wykonywać na nich m.in. ww. operacje. Program obsługuje wielomiany z wejścia zapisane w odpowiednim formacie.
+<<<<<<< HEAD
+Podczas wczytywania wielomian jest sortowany. Dodatkowo program zapewnia możliwość wypisania wielomianu w najprostszej postaci.
+
+=======
+Podczas wczytywania wielomian jest sortowany. Dodatkowo program zapewnia możliwość wypisania wielomianu w najprostszej postaci. 
+>>>>>>> 57a6239... Uzupełnienie MainPage'u
+
+*/
